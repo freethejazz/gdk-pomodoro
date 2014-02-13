@@ -149,12 +149,4 @@ public class MenuActivity extends Activity {
         }
     }
 
-    @Override
-    public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (resultCode == RESULT_OK && requestCode == SET_TIMER) {
-            mTimer.setDurationMillis(data.getLongExtra(SetPomoActivity.EXTRA_DURATION_MILLIS, 0));
-        }
-        finish();
-    }
-
 }
