@@ -16,7 +16,7 @@
 
 <resources>
     <string name="app_name">Pomodoro</string>
-    <string name="start_pomodoro">pomodoro</string>
+    <string name="start_pomodoro">start a pomodoro</string>
     
     <string name="pomos_completed">Pomos Completed: </string>
 
