@@ -29,14 +29,14 @@ There are a few bits that I'd like to add at some point:
 
 - Replace "Pomos Completed: #" with a tomato image for each pomo completed,
   maybe followed by a dashed outline of a tomato
-- Customize the icons
+- Customize the menu icons
 - Change the sounds that play when the timer hits 0
 - Allow the user to change the length of work and break times
 - Schedule longer breaks into a sequence of pomos
 
-### Comments
+## Comments
 
 Java is not really my thing, so any feedback is greatly appreciated.  This
-can be in the form of github issues, pull requests, tweets @freethejazz,
+can be in the form of github issues, pull requests, tweets [@freethejazz](http://www.twitter.com/freethejazz),
 emails to my twitter handle @ that big G email provider, complaints written
 on $20 dollar bills mailed to me in Chicago, etc.  
