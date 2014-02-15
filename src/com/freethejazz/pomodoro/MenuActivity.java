@@ -47,12 +47,9 @@ import android.view.MenuItem;
  */
 public class MenuActivity extends Activity {
 
-    /** Request code for setting the timer. */
-    private static final int SET_TIMER = 100;
 
     private Pomo mTimer;
     private boolean mResumed;
-    private boolean mSettingTimer;
 
     private ServiceConnection mConnection = new ServiceConnection() {
         @Override
@@ -143,10 +140,7 @@ public class MenuActivity extends Activity {
 
     @Override
     public void onOptionsMenuClosed(Menu menu) {
-        if (!mSettingTimer) {
-            // Nothing else to do, closing the Activity.
-            finish();
-        }
+        finish();
     }
 
 }
