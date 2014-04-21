@@ -22,6 +22,24 @@ The voice trigger is:
 
 "ok glass, start a pomodoro"
 
+## Installation
+
+The GDK (Glass Development Kit, the software library used to build this 
+application) isn't finished yet.  As a result, the process for loading apps
+like this isn't quite as refined as I'd hope.  `Pomodoro.apk` is the one 
+you need if you're only interested in side-loading the app onto your Glass.
+
+To download it, simply click on the file in the list above and on the next page,
+click `View Raw` to download it.
+
+Once you have the APK, you'll need to do the actual side-loading part.  There are
+a lot of guides out there, but here's a video walkthrough I found with a quick search:
+
+[Sideload and uninstall apps - YouTube](https://www.youtube.com/watch?v=TYJQhebDvRE)
+
+(Make sure you've got ADB installed. An embedded link is provided in the video above
+for instructions)
+
 
 ### TODO's
 
