@@ -1,6 +1,7 @@
 Pomodoro
 =====
 
+The app is currently broken in XE16 and greater, but a fix is in the works.
 
 This is a simple pomodoro app based on the sample Timer app.
 
